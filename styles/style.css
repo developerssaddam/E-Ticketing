@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:slnt,wght@-10..0,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+
+body {
+  font-family: "Raleway", sans-serif;
+  scroll-behavior: smooth;
+}
+
+.font-inter {
+  font-family: "Inter", sans-serif;
+}
+
+.primary_color {
+  color: #1dd100;
+}
+
+.bgGreen {
+  background-color: #1dd100;
+  color: #ffffff;
+}
+
+.bgGray {
+  background-color: #f7f8f8;
+  color: #7d8085;
+}
